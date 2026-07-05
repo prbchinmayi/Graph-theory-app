@@ -1,0 +1,1 @@
+The minimum spanning tree for a given graph using Kruskal's algorithm, ensuring all vertices are connected with the minimum possible total edge weight and without forming cycles was successfully found for the given graph.

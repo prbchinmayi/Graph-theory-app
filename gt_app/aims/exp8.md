@@ -1,0 +1,1 @@
+To implement generation of closed walks, trails and paths in a connected graph. 

@@ -1,0 +1,1 @@
+ Construction of a graph for a given degree sequence in order to realize if there is a graphical sequence using Havel Hakimi algorithm was successfully implemented.

@@ -1,0 +1,1 @@
+Various subgraphs such induced subgraphs, spanning subgraphs and edge deleted subgraphs were successfully implemented.

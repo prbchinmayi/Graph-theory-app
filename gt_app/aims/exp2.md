@@ -1,0 +1,1 @@
+To implement graph isomorphism verification in order to compare structural equivalence of the 2 graphs

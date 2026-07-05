@@ -1,0 +1,1 @@
+To implement an algorithm that checks for the existence of an eulerian circuit and construct a circuit that traverses every edge exactly once.

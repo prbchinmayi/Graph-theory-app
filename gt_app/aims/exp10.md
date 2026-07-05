@@ -1,0 +1,1 @@
+To implement a method that determines whether a graph contains a Hamiltonian circuit i.e. a cycle that visits every vertex exactly once.

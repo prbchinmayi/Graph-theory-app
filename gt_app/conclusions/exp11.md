@@ -1,0 +1,1 @@
+Implement graph coloring algorithm that assign colour to the vertices such that no two adjacent vertices share the same color with minimum chromatic number.

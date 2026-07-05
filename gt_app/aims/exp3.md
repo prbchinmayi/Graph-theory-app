@@ -1,0 +1,1 @@
+To implement generation of various subgraphs such induced subgraphs, spanning subgraphs and edge deleted subgraphs.
